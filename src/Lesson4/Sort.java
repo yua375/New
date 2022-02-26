@@ -1,4 +1,4 @@
-package Lesson4;
+package Lesson4; // Сортировка пузырьком
 
 import java.util.Arrays;
 public class Sort {
